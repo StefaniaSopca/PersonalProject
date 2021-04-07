@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/PersonalProject/FlowerShop/functions.cpp
+iostream
+-
+string
+-
+header.h
+D:/PersonalProject/FlowerShop/header.h
+vector
+-
+
+D:/PersonalProject/FlowerShop/header.h
+iostream
+-
+vector
+-
+
+D:/PersonalProject/FlowerShop/main.cpp
+iostream
+-
+vector
+-
+string
+-
+header.h
+D:/PersonalProject/FlowerShop/header.h
+
